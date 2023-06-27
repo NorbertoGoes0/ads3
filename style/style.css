@@ -1,0 +1,16 @@
+body.light-mode {
+    background-color: #f8f9fa;
+    color: #555758;
+}
+
+body.dark-mode {
+    background-color: #555758;
+    color: #fff;
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+  
